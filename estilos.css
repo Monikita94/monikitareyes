@@ -1,0 +1,49 @@
+body
+{
+    background: pink;
+    width: 90%;
+    margin-left: 5%;
+}
+header{
+    background-color: salmon;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: wheat;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(75, 72, 72);
+}
+img{
+    width: 180px;
+    margin-top: 20px;
+    border-radius:35px ;
+    border: 6px plum solid;
+
+}
+div{
+    text-align: center;
+}
+h1 a{
+    color: wheat;
+    text-decoration: none;
+    display: block;
+    background-color: plum;
+    border-radius: 20px;
+    padding: 7px;
+}
+h1 a:hover{
+    background-color: salmon;
+    color: black ;
+}
+footer{
+    background-color: salmon;
+    text-align: center;
+    padding: 7px;
+    border-radius: 20px;
+}
